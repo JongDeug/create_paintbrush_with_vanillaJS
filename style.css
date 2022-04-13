@@ -63,6 +63,9 @@ body {
     cursor: pointer;
     margin-left: 5px;
 }
+.controls_colors .controls_color:hover{
+    transform: scale(0.9);
+}
 
 
 .controls .controls_range{
